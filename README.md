@@ -18,5 +18,3 @@ and heroku from https://id.heroku.com/signup
 Please download the fallowing items as indicated.
 - Twitter Boottrap 3.0 files : http://getbootstrap.com/
 - Heroku toolbelt for pushing our html/css/js codes: https://toolbelt.heroku.com/
-- 
-- 
