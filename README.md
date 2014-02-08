@@ -8,7 +8,6 @@ You can also find the finished source codes here AFTER the workshop.
 Thank you !
 
 Cem Koc
----------------------------------------------------------------------------------------------------------------------------------------------------
 
 Let's Get Started
 -----------------
