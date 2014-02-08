@@ -8,4 +8,15 @@ You can also find the finished source codes here AFTER the workshop.
 Thank you !
 
 Cem Koc
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
+Let's Get Started
+-----------------
+If you don't have a github and heroku account please get one from https://help.github.com/articles/set-up-git 
+and heroku from https://id.heroku.com/signup
+
+Please download the fallowing items as indicated.
+- Twitter Boottrap 3.0 files : http://getbootstrap.com/
+- Heroku toolbelt for pushing our html/css/js codes: https://toolbelt.heroku.com/
+- 
+- 
