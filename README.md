@@ -17,7 +17,7 @@ Please download the fallowing items as indicated.
 - Twitter Boottrap 3.0 files : http://getbootstrap.com/
 - Throughout the workshop we will be pushing/pulling codes from github so if you havent already done so please copy or fork the repository by doing:
 (inside an established directory)
-git copy https://github.com/cemkoc/bootstrap_ws.git
+<code> git copy https://github.com/cemkoc/bootstrap_ws.git </code>
 
 - After copying a directory to your own computer,setting up your browser, getting the necessary files from Bootstrap  we are ready to begin cooking.
        
