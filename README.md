@@ -11,9 +11,13 @@ Cem Koc
 
 Let's Get Started
 -----------------
-If you don't have a github and heroku account please get one from https://help.github.com/articles/set-up-git 
-and heroku from https://id.heroku.com/signup
-
+If you don't have a Github account please get one from https://help.github.com/articles/set-up-git 
+Please set your browser settings so that everything is up to date.
 Please download the fallowing items as indicated.
 - Twitter Boottrap 3.0 files : http://getbootstrap.com/
-- Heroku toolbelt for pushing our html/css/js codes: https://toolbelt.heroku.com/
+- Throughout the workshop we will be pushing/pulling codes from github so if you havent already done so please copy or fork the repository by doing:
+(inside an established directory)
+git copy https://github.com/cemkoc/bootstrap_ws.git
+
+- After copying a directory to your own computer,setting up your browser, getting the necessary files from Bootstrap  we are ready to begin cooking.
+       
