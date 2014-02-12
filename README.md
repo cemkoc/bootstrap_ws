@@ -20,4 +20,7 @@ Please download the fallowing items as indicated.
 <code> git copy https://github.com/cemkoc/bootstrap_ws.git </code>
 
 - After copying a directory to your own computer,setting up your browser, getting the necessary files from Bootstrap  we are ready to begin cooking.
-       
+
+DISCLAIMER
+----------
+All changes should be made to the index.html file <b>NOT</b> in the index_final.html ! We provided the index_file.html to grab the code if you are ahead or behind of other students.    
