@@ -15,11 +15,8 @@ If you don't have a Github account please get one from https://help.github.com/a
 Please set your browser settings so that everything is up to date.
 Please download the fallowing items as indicated.
 - Twitter Boottrap 3.0 files : http://getbootstrap.com/
-- Throughout the workshop we will be pushing/pulling codes from github so if you havent already done so please copy or fork the repository by doing:
-(inside an established directory)
-<code> git copy https://github.com/cemkoc/bootstrap_ws.git </code>
-
-- After copying a directory to your own computer,setting up your browser, getting the necessary files from Bootstrap  we are ready to begin cooking.
+- Throughout the workshop we will be pushing/pulling codes from github so if you havent already done so please copy or fork the repository
+- After copying a directory to your own computer,setting up your browser, getting the necessary files from Bootstrap  we are ready to begin cooking. ;)
 
 DISCLAIMER
 ----------
